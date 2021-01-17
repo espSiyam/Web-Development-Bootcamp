@@ -1,0 +1,31 @@
+	/********************* Tag Selector *************/
+
+	body {
+		background-color: #eb596e;
+	}
+
+	h1 {
+		color: red;
+		font-size: 70px;
+	}
+
+	#heading {
+		color: yellow;
+	}
+
+	img:hover {
+		background-color: gold;
+	}
+
+	/********************* Class Selector *************/
+	.bacon {
+		background-color: red;
+	}
+
+	.broccoli {
+		background-color: green;
+	}
+
+	.cricular {
+		border-radius: 100%;
+	}
